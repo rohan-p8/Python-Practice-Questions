@@ -12,6 +12,5 @@ class calculator:
         root = n ** 0.5
         print(f"Square root of {n} is: {root}")
 
-
 c1 = calculator()
 c1.cal(4)
