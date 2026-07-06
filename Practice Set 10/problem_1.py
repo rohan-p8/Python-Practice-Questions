@@ -6,13 +6,11 @@ class Programmer:
         self.empid = empid
         self.salary = salary
 
-
     def getInfo(self):
         print(f"Company: {self.company}")
         print(f"Name: {self.name}")
         print(f"Employee ID: {self.empid}")
         print(f"Salary: {self.salary}")
-
 
 p1 = Programmer("Rohan", 101, 50000)
 
