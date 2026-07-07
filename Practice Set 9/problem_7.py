@@ -1,5 +1,3 @@
-
-
 with open("log.txt", "r") as f:
     line_no = 1
 
