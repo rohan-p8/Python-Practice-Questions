@@ -8,13 +8,11 @@ class Programmer:
         slf.empid = empid
         slf.salary = salary
 
-
     def getInfo(slf):
         print(f"Company: {slf.company}")
         print(f"Name: {slf.name}")
         print(f"Employee ID: {slf.empid}")
         print(f"Salary: {slf.salary}")
-
 
 p1 = Programmer("Rohan", 101, 50000)
 
