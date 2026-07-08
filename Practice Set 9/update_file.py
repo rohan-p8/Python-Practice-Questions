@@ -15,7 +15,6 @@ if score > hi_score:
     with open("Hi_score.txt", "w") as f:
         f.write(str(score))
 
-
 with open("Hi_score.txt", "r") as f:
     content = f.read()
 
