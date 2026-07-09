@@ -1,4 +1,3 @@
-
 class Sample:
     a = 10
 
