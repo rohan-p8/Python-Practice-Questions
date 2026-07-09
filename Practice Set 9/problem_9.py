@@ -1,4 +1,3 @@
-
 with open("this.txt", "r") as f:
     content = f.read()
 
