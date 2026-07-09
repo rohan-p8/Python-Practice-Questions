@@ -1,4 +1,3 @@
-
 word = ["donkey", "bad"]
 
 with open("sample.txt", "r") as f:
