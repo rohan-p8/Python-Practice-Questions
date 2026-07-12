@@ -8,8 +8,6 @@ class TwoDVector:
     def show(self):
         print(f"TwoDVector: i={self.i}, j={self.j}")
 
-
-
 class ThreeDVector(TwoDVector):
 
     def __init__(self, i, j, k):
@@ -18,8 +16,6 @@ class ThreeDVector(TwoDVector):
 
     def show(self):
         print(f"ThreeDVector: i={self.i}, j={self.j}, k={self.k}")
-
-
 
 
 a = TwoDVector(3,5)
