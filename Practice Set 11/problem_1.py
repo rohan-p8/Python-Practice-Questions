@@ -17,7 +17,6 @@ class ThreeDVector(TwoDVector):
     def show(self):
         print(f"ThreeDVector: i={self.i}, j={self.j}, k={self.k}")
 
-
 a = TwoDVector(3,5)
 a.show()
 
