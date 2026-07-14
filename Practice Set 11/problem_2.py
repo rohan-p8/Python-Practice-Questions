@@ -5,7 +5,6 @@ class Animals:
         print(f"Animal name: {self.name}")
 
 
-
 class Pets(Animals):
 
     def __init__(self, name, belong):
