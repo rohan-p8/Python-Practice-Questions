@@ -11,7 +11,6 @@ class Employee:
     def salaryAfterIncrement(self, salary):
         self.increment = ((salary / self.salary) - 1) * 100
 
-
 e = Employee(50000, 10)
 
 print("Salary:", e.salary)
@@ -22,4 +21,3 @@ e.salaryAfterIncrement = 60000
 
 print("\nAfter changing salaryAfterIncrement to 60000")
 print("New Increment:", e.increment)
-
