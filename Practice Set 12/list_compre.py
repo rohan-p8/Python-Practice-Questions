@@ -7,7 +7,6 @@
 
 # print(l)
 
-
 # With list comprehension
 
 numbers = [i*i for i in range(1, 11)]
