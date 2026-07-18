@@ -5,5 +5,4 @@ def show():
     x = 20
 
 show()
-
 print(x)
