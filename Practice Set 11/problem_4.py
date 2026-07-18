@@ -18,7 +18,6 @@ class Complex:
     def __str__(self):
         return f"{self.real} + {self.imag}i"
 
-
 c1 = Complex(2, 3)
 c2 = Complex(4, 5)
 
