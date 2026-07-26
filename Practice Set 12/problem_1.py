@@ -10,6 +10,5 @@ except:
 
 print("This is executed because we have handled the exception")
 
-
 # with open("2.txt", "r") as f2:
 #     print(f2.read())
