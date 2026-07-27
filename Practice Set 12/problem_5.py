@@ -10,4 +10,3 @@ with open("table.txt", "w") as f:
 with open("table.txt", "r") as f:
     content = f.read()
     print("\nThis is table.txt file:", content)
-
