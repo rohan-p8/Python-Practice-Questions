@@ -6,7 +6,6 @@ try:
     result = a / b
     print("The result of division is:", result)
 
-
 except ZeroDivisionError:
     print("Infinite by handling the 'ZeroDivisionError' exception")
 
