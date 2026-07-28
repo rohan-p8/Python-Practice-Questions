@@ -13,6 +13,5 @@ except ZeroDivisionError:
 else:
     print("This block is executed only if no exception occurs.")
 
-
 finally:
     print("This block is always executed, regardless of whether an exception occurred or not.")
