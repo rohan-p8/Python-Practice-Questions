@@ -5,5 +5,4 @@ with open("sample.txt", "r") as f:
 
 with open("sample.txt", "w")as f:
     f.write(content)
-
     print(content)
