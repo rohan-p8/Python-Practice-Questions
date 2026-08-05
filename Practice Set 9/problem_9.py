@@ -9,3 +9,5 @@ with open("copy.txt", "r") as f:
         print("The content of both files is the same.")
     else:
         print("The content of both files is different.")
+
+        
