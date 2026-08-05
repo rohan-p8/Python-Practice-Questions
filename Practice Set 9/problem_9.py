@@ -1,7 +1,6 @@
 with open("this.txt", "r") as f:
     content = f.read()
 
-
 with open("copy.txt", "r") as f:
     content_c = f.read()
 
@@ -10,4 +9,3 @@ with open("copy.txt", "r") as f:
     else:
         print("The content of both files is different.")
 
-        
