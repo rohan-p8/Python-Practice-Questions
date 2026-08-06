@@ -15,4 +15,5 @@ class Train:
 t1 = Train("12345")
 t1.book_ticket("New York", "Los Angeles")
 t1.get_status()
+
 t1.fare_info("New York", "Los Angeles")
