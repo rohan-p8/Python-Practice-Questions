@@ -12,7 +12,6 @@ class calculator:
         root = n ** 0.5
         print(f"Square root of {n} is: {root}")
 
-
     @staticmethod
     def greet():
         print("\nHello Rohan !!! Welcome to Python programming.")
