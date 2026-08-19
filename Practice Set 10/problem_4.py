@@ -20,3 +20,4 @@ c1 = calculator()
 c1.cal(4)
 
 c1.greet()
+
