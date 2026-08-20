@@ -7,7 +7,6 @@ try:
 except:
     print("Files not found")
 
-
 print("This is executed because we have handled the exception")
 
 # with open("2.txt", "r") as f2:
