@@ -1,4 +1,6 @@
 
+# print products of given number
+
 n = int(input("Enter no: "))
 
 for i in range(1, n + 1):
