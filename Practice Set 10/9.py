@@ -9,4 +9,4 @@ elif char.isdigit():
     print("Digit")
 
 else:
-    print("Neither letter or digit")
+    print("Neither letter or digit.")
