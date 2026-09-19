@@ -11,3 +11,4 @@ elif n % 5 == 0:
 
 elif n % 3 == 0:
     print("Fizz")
+    
