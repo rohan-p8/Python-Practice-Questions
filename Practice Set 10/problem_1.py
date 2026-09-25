@@ -19,3 +19,4 @@ p2 = Programmer("Sohan", 102, 60000)
 p1.getInfo()
 print()
 p2.getInfo()
+
