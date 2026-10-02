@@ -1,4 +1,3 @@
-
 class TwoDVector:
 
     def __init__(self, i, j):
