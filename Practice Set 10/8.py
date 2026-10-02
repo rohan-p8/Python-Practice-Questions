@@ -1,5 +1,4 @@
-
-# print products of given number
+# print factors of given number
 
 n = int(input("Enter no: "))
 
