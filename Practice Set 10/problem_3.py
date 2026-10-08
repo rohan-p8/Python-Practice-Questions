@@ -11,4 +11,3 @@ obj.a = 20
 print("Class attribute after:", Sample.a)
 
 print("Object attribute after:", obj.a)
-
