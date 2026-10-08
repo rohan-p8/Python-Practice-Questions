@@ -10,4 +10,3 @@ elif (b > a and b < c) or (b < a and b > c):
     print("Median value is:", b)
 else:
     print("Median value is:", c)
-    
