@@ -1,5 +1,4 @@
 # Without list comprehension
-
 # l = []
 
 # for i in range (1, 11):
