@@ -6,7 +6,6 @@ print(list)
 with open("table.txt", "w") as f:
     f.write(str(list))
 
-
 with open("table.txt", "r") as f:
     content = f.read()
     print("\nThis is table.txt file:", content)
