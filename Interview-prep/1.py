@@ -1,6 +1,5 @@
 # inheitance
 # single inheritance
-
 class Animal:
     def eat(self):
         print("Eating")
