@@ -14,4 +14,3 @@ else:
 
 finally:
     print("This block will always execute.")
-    
